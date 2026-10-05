@@ -2,7 +2,7 @@
 
  
 
- # Discord Raider
+ # | Discord Raider |
 
 A Discord raiding and automation bot featuring a local Flask web dashboard, live SocketIO logging, and dual authentication support (Bot & Selfbot).
 
