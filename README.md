@@ -23,10 +23,12 @@ Run these commands in your terminal:
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/monarchxyspider/Discord-Raider```
+git clone https://github.com/monarchxyspider/Discord-Raider
+```
 # Enter the project
 ```bash
-cd Discord-Raider```
+cd Discord-Raider
+```
 # Install Requirements
 ```bash
 pip install discord.py Flask Flask-SocketIO python-dotenv rich gevent gevent-websocket
