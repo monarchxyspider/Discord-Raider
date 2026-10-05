@@ -49,4 +49,4 @@ copy the link looks like:
 http://localhost:5000
 and paste it in google 
 ## Disclaimer
-​​Educational Purpose Only: This project is developed strictly for educational and research purposes. Mass messaging or using selfbots violates Discord's Terms of Service and will lead to account bans. The developer is not responsible for any account bans or actions taken on your account. Use at your own risk. 
+**​​Educational Purpose Only**: This project is developed strictly for educational and research purposes. Mass messaging or using selfbots violates Discord's Terms of Service and will lead to account bans. The developer is not responsible for any account bans or actions taken on your account. Use at your own risk. 
