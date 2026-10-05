@@ -38,8 +38,8 @@ pip install -r requirements.txt
 ## To Run the Program
 ```bash
 python main.py
-``
-## Extra Information
+```
+# Extra Information
 - Enter victims name: 
 - Enter Attacker name:
 - Enter amount of mention:
