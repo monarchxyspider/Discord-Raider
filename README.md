@@ -19,3 +19,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/monarchxyspider/Discord-Raider.git
+Enter project directory:
+```bash
+cd Discord-Raider
+## Install depencies:
+```bash
+pip install discord.py Flask Flask-SocketIO python-dotenv rich gevent gevent-websocket
